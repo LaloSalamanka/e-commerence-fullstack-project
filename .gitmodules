@@ -1,0 +1,6 @@
+[submodule "react-ecommerce-project"]
+	path = react-ecommerce-project
+	url = https://github.com/LaloSalamanka/react-ecommerce-project.git
+[submodule "springboot-mall"]
+	path = springboot-mall
+	url = https://github.com/LaloSalamanka/springboot-mall.git

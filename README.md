@@ -9,7 +9,7 @@
 
 ## 專案目錄結構
 ```
-fullstack-project
+e-commerence-fullstack-project
 │── springboot-mall          # Spring Boot 後端
 │   ├── springboot-mall/src/main/java/com/lalochen/springbootmall
 |   |   ├── config

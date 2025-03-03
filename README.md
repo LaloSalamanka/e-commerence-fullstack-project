@@ -1,5 +1,4 @@
 #  E-Commerce Project
----
 這是一個使用 **React + Spring Boot** 開發的電商專案，包含會員註冊登入、商品瀏覽及訂單功能。
 
 ## 使用的技術

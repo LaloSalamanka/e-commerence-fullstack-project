@@ -215,11 +215,11 @@ sequenceDiagram
 ![alt text](./screenshots/products.png)
 ### 商品細節
 ![alt text](./screenshots/product.png)
-### 註冊畫面
+### 註冊
 ![alt text](./screenshots/register.png)
-### 登入畫面
+### 登入
 ![alt text](./screenshots/login.png)
-### 結帳畫面
+### 結帳
 ![alt text](./screenshots/checkout.png)
-### 用戶訂單畫面
+### 用戶訂單查詢
 ![alt text](./screenshots/orders.png)
